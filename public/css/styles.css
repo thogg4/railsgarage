@@ -7,10 +7,13 @@
  src: url("/fonts/revolution.ttf") /* TTF file for CSS3 browsers */
 }
 
+a { color: #4f55e2; font-size: 20px; }
+a:hover { color: #4f55e2; }
+
 .container { max-width: 700px; }
 
 .jumbotron { background-color: transparent; margin-bottom: 0px; }
-.jumbotron h1 { font-family: revolution, helvetica; color: #4f55e2; } 
+.jumbotron h1 { font-family: revolution, helvetica; color: #4f55e2; font-size: 90px; }
 
 .section { border-bottom: 1px solid #CCCCCC; padding: 30px 0px; }
 .gray { background-color: #EAEAEA;  }
