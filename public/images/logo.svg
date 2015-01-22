@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="643px" height="643px" viewBox="0 0 643 643" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="logo" sketch:type="MSLayerGroup" transform="translate(2.000000, 2.000000)" fill="#E50000">
+            <path d="M298.73337,444.358053 L326.415073,444.358053 C330.290512,444.358053 333.335499,441.313066 333.335499,437.437627 L333.335499,250.586133 L381.778479,250.586133 C384.546649,250.586133 387.038002,248.925231 388.14527,246.433878 C389.252539,243.942525 388.698904,240.897537 386.761185,238.959818 L345.238631,197.437264 C343.854546,196.053179 342.193644,195.222728 340.255925,195.222728 L257.210816,195.222728 C253.335378,195.222728 250.29039,198.267715 250.29039,202.143154 L250.29039,243.665708 C250.29039,247.541146 253.335378,250.586133 257.210816,250.586133 L291.812945,250.586133 L291.812945,437.437627 C291.812945,441.313066 294.857932,444.358053 298.73337,444.358053 L298.73337,444.358053 Z M305.653796,430.517202 L305.653796,250.586133 L319.494647,250.586133 L319.494647,430.517202 L305.653796,430.517202 L305.653796,430.517202 Z M264.131242,236.745282 L264.131242,209.063579 L337.487754,209.063579 L365.169457,236.745282 L326.415073,236.745282 L298.73337,236.745282 L264.131242,236.745282 L264.131242,236.745282 Z" id="Hammer" sketch:type="MSShapeGroup" transform="translate(319.500000, 319.790390) rotate(-90.000000) translate(-319.500000, -319.790390) "></path>
+            <text id="Garage" sketch:type="MSTextLayer" font-family="Raleway" font-size="65" font-weight="633">
+                <tspan x="203" y="476">Garage</tspan>
+            </text>
+            <text id="Rails" sketch:type="MSTextLayer" font-family="Raleway" font-size="65" font-weight="633">
+                <tspan x="240" y="208">Rails</tspan>
+            </text>
+            <path d="M219.451316,563 L76,419.548684 L76,219.446347 L219.451316,76 L419.548684,76 L563,219.446347 L563,419.548684 L419.548684,563 L219.451316,563 Z M228.1875,543.122449 L410.8125,543.122449 L543.122449,410.8125 L543.122449,228.182531 L410.8125,95.877551 L228.1875,95.877551 L95.877551,228.182531 L95.877551,410.8125 L228.1875,543.122449 L228.1875,543.122449 Z" id="Outline" sketch:type="MSShapeGroup" transform="translate(319.500000, 319.500000) rotate(-23.000000) translate(-319.500000, -319.500000) "></path>
+        </g>
+    </g>
+</svg>
