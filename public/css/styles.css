@@ -10,7 +10,7 @@ a:hover { color: #E50000; }
 
 .jumbotron { background-color: transparent; margin-bottom: 0px; }
 .jumbotron .logo { max-width: 400px; max-height: 400px; }
-.jumbotron h1 { font-family: raleway, helvetica; color: #E50000; }
+.jumbotron .logo path, .jumbotron .logo text { fill: #E50000; }
 
 .section { border-bottom: 1px solid #CCCCCC; padding: 30px 0px; }
 .gray { background-color: #EAEAEA;  }
